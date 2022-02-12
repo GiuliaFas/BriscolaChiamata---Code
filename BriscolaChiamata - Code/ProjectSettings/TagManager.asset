@@ -1,0 +1,145 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - TagPos1
+  - TagPos2
+  - TagPos3
+  - TagPos4
+  - Gio1
+  - Gio2
+  - Gio3
+  - Gio4
+  - carta1
+  - carta2
+  - carta3
+  - carta4
+  - carta5
+  - carta6
+  - carta7
+  - carta8
+  - carta9
+  - carta10
+  - carta11
+  - carta12
+  - carta13
+  - carta14
+  - carta15
+  - carta16
+  - carta17
+  - carta18
+  - carta19
+  - carta20
+  - carta21
+  - carta22
+  - carta23
+  - carta24
+  - carta25
+  - carta26
+  - carta27
+  - carta28
+  - carta29
+  - carta30
+  - carta31
+  - carta32
+  - carta33
+  - carta34
+  - carta35
+  - carta36
+  - carta37
+  - carta38
+  - carta39
+  - carta40
+  - figuraCarta
+  - semeCarta
+  - Bottone
+  - nomeChiamante
+  - punteggiochiamato
+  - figurachiamata
+  - semechiamato
+  - BOT
+  - inserimentocarta
+  - NomeVincitore
+  - PuntiVincitore
+  - card
+  - 1 bastoni
+  - 2 bastoni
+  - 3 bastoni
+  - 4 bastoni
+  - 5 bastoni
+  - 6 bastoni
+  - 7 bastoni
+  - 8 bastoni
+  - 9 bastoni
+  - 10 bastoni
+  - 1 coppe
+  - 2 coppe
+  - 3 coppe
+  - 4 coppe
+  - 5 coppe
+  - 6 coppe
+  - 7 coppe
+  - 8 coppe
+  - 9 coppe
+  - 10 coppe
+  - 1 ori
+  - 2 ori
+  - 3 ori
+  - 4 ori
+  - 5 ori
+  - 6 ori
+  - 7 ori
+  - 8 ori
+  - 9 ori
+  - 10 ori
+  - 1 spade
+  - 2 spade
+  - 3 spade
+  - 4 spade
+  - 5 spade
+  - 6 spade
+  - 7 spade
+  - 8 spade
+  - 9 spade
+  - 10 spade
+  - CartaBot
+  - ErroreAsta
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
